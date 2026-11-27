@@ -1,0 +1,14 @@
+node_modules/
+session/
+data/
+temp/
+tmp/
+downloads/
+.env
+*.log
+.DS_Store
+auth_info_baileys/
+*.session
+.wwebjs_*
+package-lock.json
+yarn.lock
