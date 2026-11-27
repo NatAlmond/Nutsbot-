@@ -1,9 +1,0 @@
-node_modules/
-session/
-.env
-*.log
-temp/
-downloads/
-.DS_Store
-auth_info_baileys/
-*.session
