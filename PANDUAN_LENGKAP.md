@@ -46,7 +46,7 @@ pict20.png ... pict28.png (opsional)
 
 ```
 OWNER_NUMBER=628xxxxxxxxxx
-OWNER_CODE=myownerlikepeanuts
+OWNER_CODE=....
 PAIRING_NUMBER=628xxxxxxxxxx
 GROQ_API_KEY=gsk_...
 GEMINI_API_KEY=AIza...          (opsional)
